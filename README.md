@@ -1,4 +1,9 @@
-### Hi there 👋
+### Привет! Меня зовут Егор и я frontend разработчик 👋
+#Проекты: 
+-🚄Todo React(ssxdtxr.github.io/TodoReact/)
+-🏎Todo(ssxdtxr.github.io/TODO/)
+-Flower Shop(ssxdtxr.github.io/FowerShop/)
+-Belka(ssxdtxr.github.io/Belka/)
 
 <!--
 **ssxdtxr/ssxdtxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
