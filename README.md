@@ -7,6 +7,7 @@ My Ptojects:
 -Flower Shop(ssxdtxr.github.io/FowerShop/)
 -Belka(ssxdtxr.github.io/Belka/) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssxdtxr&repo=Todo)](https://github.com/ssxdtxr/TodoReact)
+[![Todo](https://github-readme-stats.vercel.app/api/pin/?username=ssxdtxr&repo=Todo)](https://github.com/ssxdtxr/TodoReact)
 :hammer_and_wrench:### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
