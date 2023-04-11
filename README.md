@@ -6,7 +6,7 @@ My Ptojects:
 -🏎Todo(ssxdtxr.github.io/TODO/)
 -Flower Shop(ssxdtxr.github.io/FowerShop/)
 -Belka(ssxdtxr.github.io/Belka/) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssxdtxr&repo=Todo)]([https://github.com/anuraghazra/github-readme-stats]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssxdtxr&repo=Todo)]([https://github.com/ssxdtxr/TodoReact]
 
 :hammer_and_wrench:### Languages and Tools :
 <div>
