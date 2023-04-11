@@ -2,10 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 #Проекты: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssxdtxr&repo=Todo)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ssxdtxr/TodoReact))
+(https://github.com/ssxdtxr/TodoReact))
 -🏎Todo(ssxdtxr.github.io/TODO/)
 -Flower Shop(ssxdtxr.github.io/FowerShop/)
 -Belka(ssxdtxr.github.io/Belka/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssxdtxr&repo=Todo)]([https://github.com/anuraghazra/github-readme-stats]
 
 :hammer_and_wrench: Languages and Tools :
 <div>
