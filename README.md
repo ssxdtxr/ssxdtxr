@@ -1,11 +1,13 @@
-### Привет! Меня зовут Егор и я frontend разработчик 👋
+<h1 align="center">Hi there, Egor
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 #Проекты: 
--🚄Todo React(ssxdtxr.github.io/TodoReact/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -🏎Todo(ssxdtxr.github.io/TODO/)
 -Flower Shop(ssxdtxr.github.io/FowerShop/)
 -Belka(ssxdtxr.github.io/Belka/)
 
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -15,4 +17,5 @@
 </div>
 ### :fire: My Stats :
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxdtxr)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxdtxr)](https://github.com/anuraghazra/github-readme-stats)
