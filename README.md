@@ -16,5 +16,4 @@ My Projects:
 </div>
 ### :fire: My Stats :
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxdtxr)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxdtxr)](https://github.com/anuraghazra/github-readme-stats)
+
