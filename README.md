@@ -15,5 +15,8 @@ My Projects:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 ### :fire: My Stats :
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxdtxr)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssxdtxr)](https://github.com/anuraghazra/github-readme-stats)
   
 
