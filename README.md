@@ -13,7 +13,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student  
 - 📰 IT news writer (I like explaining tech in human language)  
 - 💻 Focused on **frontend** and modern web stack  
 - 🌱 Constantly learning new tools and best practices  
