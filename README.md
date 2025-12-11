@@ -2,10 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 My Projects: 
-<!-- (https://github.com/ssxdtxr/TodoReact))
--🏎Todo(ssxdtxr.github.io/TODO/)
--Flower Shop(ssxdtxr.github.io/FowerShop/)
--Belka(ssxdtxr.github.io/Belka/) -->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
