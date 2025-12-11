@@ -35,14 +35,4 @@
 - 📝 Articles and summaries about new technologies  
 - 📚 Consistent practice with JavaScript & React  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ssxdtxr">
-    <img src="https://github-readme-stats.vercel.app/api?username=ssxdtxr&show_icons=true&theme=tokyonight&hide_border=true" alt="Egor's GitHub stats"/>
-  </a>
-</p>
-
 <p align="center">
