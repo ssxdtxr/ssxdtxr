@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Egor <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Computer+Science+Student;IT+News+Writer;Always+learning+something+new+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ssxdtxr">
     <img src="https://komarev.com/ghpvc/?username=ssxdtxr&style=for-the-badge" alt="profile views" />
   </a>
@@ -70,28 +66,6 @@
 - 🔗 *Soon:* pinned projects with small web apps & experiments  
 - 🧪 Pet projects to practice **JS/TS + React**  
 - ✍️ Articles and notes about technologies I try in practice  
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/ssxdtxr">
-    <img src="https://github-readme-stats.vercel.app/api?username=ssxdtxr&show_icons=true&theme=tokyonight&hide_border=true" alt="Egor's GitHub stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ssxdtxr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssxdtxr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ssxdtxr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
 
 ---
 
