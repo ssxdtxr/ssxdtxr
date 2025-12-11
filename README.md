@@ -10,7 +10,6 @@
 
 ### 👋 About Me
 
-- 🎓 CS student, focused on modern web development  
 - 📰 I write about IT news and technology trends  
 - ⚛️ Interested in JavaScript ecosystem and React  
 - 🚀 Open to collaboration and side projects  
